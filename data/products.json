@@ -40,11 +40,13 @@
         "sponsoredCampaignId": null,
         "facetGroupings": [],
         "advertisement": null,
-        "rating": 4.5
+        "rating": 4.5,
+        "description": "<a href=\"/men/shoes-boots-trainers/cat/?cid=4209\"><strong>Shoes, Boots & Sneakers</strong></a> by Truffle Collection<br><ul><li>Ready, set, summer</li><li>Slip-on style</li><li>Grooved wide strap</li><li>Open toe</li><li>Chunky sole</li></ul>"
       },
       {
         "id": 203885128,
         "name": "Truffle Collection wide fit gold print sliders in black",
+        "description": "<a href=\"/men/shoes-boots-trainers/cat/?cid=4209\"><strong>Shoes, Boots & Sneakers</strong></a> by Truffle Collection<br><ul><li>Give your feet some airtime</li><li>Slip-on style</li><li>Wide strap</li><li>Chunky sole</li><li>Wide fit</li></ul>",
         "price": {
           "current": {
             "value": 14,
@@ -87,6 +89,7 @@
       {
         "id": 203885254,
         "name": "Truffle Collection wide fit grooved pool sliders in neon lime",
+        "description": "<a href=\"/men/shoes-boots-trainers/cat/?cid=4209\"><strong>Shoes, Boots & Sneakers</strong></a> by Truffle Collection<br><ul><li>Meet you by the pool</li><li>Slip-on style</li><li>Wide strap</li><li>Open toe</li><li>Molded footbed</li><li>Slip-resistant sole</li><li>Wide fit</li></ul>",
         "price": {
           "current": {
             "value": 17.5,
@@ -129,6 +132,7 @@
       {
         "id": 203885289,
         "name": "Truffle Collection wide fit flip flops in ombre",
+        "description": "<a href=\"/men/shoes-boots-trainers/cat/?cid=4209\"><strong>Shoes, Boots & Sneakers</strong></a> by Truffle Collection<br><ul><li>For those summer sound effects</li><li>V-shaped straps</li><li>Toe post</li><li>Flat sole</li><li>Wide fit</li></ul>",
         "price": {
           "current": {
             "value": 8.5,
